@@ -1,9 +1,7 @@
 #include <stdio.h>
-
-/**                                                                                                                                     
- *
- *  * main - main block                                                                                                                 
- *   *Return: o                                                                                                                          *
+/**
+ * main - main block
+ * Return: o
  */
 int main(void)
 {
